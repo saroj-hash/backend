@@ -1,0 +1,280 @@
+Sun Apr 19 2020 - Error: Some error occured!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sun Apr 19 2020 - Error: Some error occured!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sun Apr 19 2020 - MongoError: E11000 duplicate key error collection: WJDB.Subcscribers index: Emails.Email_1 dup key: { Emails.Email: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 19 2020 - MongoError: E11000 duplicate key error collection: WJDB.Subcscribers index: Emails.Email_1 dup key: { Emails.Email: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 19 2020 - MongoError: E11000 duplicate key error collection: WJDB.Subcscribers index: Emails.Email_1 dup key: { Emails.Email: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 19 2020 - MongoError: E11000 duplicate key error collection: WJDB.Subcscribers index: Emails.Email_1 dup key: { Emails.Email: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 19 2020 - MongoError: E11000 duplicate key error collection: WJDB.Subcscribers index: Emails.Email_1 dup key: { Emails.Email: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 19 2020 - MongoError: E11000 duplicate key error collection: WJDB.Subcscribers index: Emails.Email_1 dup key: { Emails.Email: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 19 2020 - MongoError: E11000 duplicate key error collection: WJDB.Subcscribers index: Emails.Email_1 dup key: { Emails.Email: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 19 2020 - MongoError: E11000 duplicate key error collection: WJDB.Subcscribers index: Emails.Email_1 dup key: { Emails.Email: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 19 2020 - MongoError: E11000 duplicate key error collection: WJDB.Subcscribers index: Emails.Email_1 dup key: { Emails.Email: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 19 2020 - MongoError: E11000 duplicate key error collection: WJDB.Subcscribers index: Emails.Email_1 dup key: { Emails.Email: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 19 2020 - MongoError: E11000 duplicate key error collection: WJDB.Subcscribers index: Emails.Email_1 dup key: { Emails.Email: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 19 2020 - MongoError: E11000 duplicate key error collection: WJDB.Subcscribers index: Emails.Email_1 dup key: { Emails.Email: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 19 2020 - ValidationError: Subcscribers validation failed: Email: Path `Email` is required.
+    at new ValidationError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\error\validation.js:31:11)
+    at model.Document.invalidate (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\document.js:2554:32)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\document.js:2376:17
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\schematype.js:1099:9
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 19 2020 - MongoError: E11000 duplicate key error collection: WJDB.Subcscribers index: Emails.Email_1 dup key: { Emails.Email: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 19 2020 - Error: Some error occured!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sun Apr 19 2020 - Error: Some error occured!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sun Apr 19 2020 - Error: Some error occured!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sun Apr 19 2020 - Error: Some error occured!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Sun Apr 19 2020 - ReferenceError: emailObj is not defined
+    at C:\Users\hp\Desktop\WJ\WJWS\routes\routing.js:7:26
+    at Layer.handle [as handle_request] (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:275:10)
+    at requestLogger (C:\Users\hp\Desktop\WJ\WJWS\utilities\requestlogger.js:9:5)
+Sun Apr 19 2020 - MongoError: E11000 duplicate key error collection: WJDB.Subcscribers index: Emails.Email_1 dup key: { Emails.Email: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 19 2020 - ValidationError: Subcscribers validation failed: Email: Path `Email` is required.
+    at new ValidationError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\error\validation.js:31:11)
+    at model.Document.invalidate (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\document.js:2554:32)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\document.js:2376:17
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongoose\lib\schematype.js:1099:9
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 19 2020 - MongoError: E11000 duplicate key error collection: WJDB.Subcscribers index: Emails.Email_1 dup key: { Emails.Email: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Sun Apr 19 2020 - MongoError: E11000 duplicate key error collection: WJDB.Subcscribers index: Emails.Email_1 dup key: { Emails.Email: null }
+    at Function.create (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\operations\common_functions.js:265:39
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:76:11)
+Mon Apr 20 2020 - MongoError: Projection cannot have a mix of inclusion and exclusion.
+    at Connection.<anonymous> (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\pool.js:450:61)
+    at Connection.emit (events.js:223:5)
+    at processMessage (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\connection.js:384:10)
+    at Socket.<anonymous> (C:\Users\hp\Desktop\WJ\WJWS\node_modules\mongodb\lib\core\connection\connection.js:553:15)
+    at Socket.emit (events.js:223:5)
+    at addChunk (_stream_readable.js:309:12)
+    at readableAddChunk (_stream_readable.js:290:11)
+    at Socket.Readable.push (_stream_readable.js:224:10)
+    at TCP.onStreamRead (internal/stream_base_commons.js:181:23)
+Mon Apr 20 2020 - ReferenceError: err is not defined
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:23:13
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Some error occured!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Some error occured!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Some error occured!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Some error occured!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:9:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Email Id already exists
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:15:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Email Id already exists
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:15:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Email Id already exists
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:15:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Email Id already exists
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:15:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:15:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:15:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:15:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:15:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:15:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:15:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:15:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:15:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:15:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:15:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - ReferenceError: value is not defined
+    at Object.validator.validateEmail (C:\Users\hp\Desktop\WJ\WJWS\utilities\validator.js:4:22)
+    at Object.service.insertEmails (C:\Users\hp\Desktop\WJ\WJWS\service\test.js:5:15)
+    at C:\Users\hp\Desktop\WJ\WJWS\routes\routing.js:7:13
+    at Layer.handle [as handle_request] (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:335:12)
+Mon Apr 20 2020 - ReferenceError: value is not defined
+    at Object.validator.validateEmail (C:\Users\hp\Desktop\WJ\WJWS\utilities\validator.js:4:22)
+    at Object.service.insertEmails (C:\Users\hp\Desktop\WJ\WJWS\service\test.js:5:15)
+    at C:\Users\hp\Desktop\WJ\WJWS\routes\routing.js:7:13
+    at Layer.handle [as handle_request] (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\hp\Desktop\WJ\WJWS\node_modules\express\lib\router\index.js:335:12)
+Mon Apr 20 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:17:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:17:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:17:23
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:17:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:17:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:17:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:17:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:17:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
+Mon Apr 20 2020 - Error: Sorry mate! You have already used this Email Id!
+    at C:\Users\hp\Desktop\WJ\WJWS\service\test.js:17:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:94:5)
